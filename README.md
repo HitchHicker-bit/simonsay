@@ -1,4 +1,4 @@
-# simonsay
+# junior_2
 
 ## Project setup
 ```
